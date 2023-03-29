@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-beginner",
+  "version": "1.0.0",
+  "description": "node js beginner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas",
+  "license": "ISC"
+}
