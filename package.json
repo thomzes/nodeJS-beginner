@@ -4,8 +4,12 @@
   "description": "node js beginner",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "author": "Thomas",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "rupiah-format": "^1.0.0"
+  }
 }
